@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=holi&size=40&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Emerson+Geovane;I'm+17+years+old;I+study+Systems+Development+At+ETE;Be+Welcome!+:%29)](https://github.com/emersongeovane)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=holi&size=40&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Emerson+Geovane;I'm+17+years+old;I+study+Systems+Development+At+ETE;Be+Welcome!+:%29)
 
 ![Snake animation](https://github.com/emersongeovane/emersongeovane/blob/output/github-snake-dark.svg)
 
@@ -14,14 +14,14 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-geovane.vercel.app/api?username=emersongeovane&show_icons=true&theme=holi&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-geovane.vercel.app/api/top-langs/?username=emersongeovane&layout=compact&theme=holi&hide_border=true&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,CSS,Dockerfile,JSON,Portugol&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-geovane.vercel.app/api/top-langs/?username=emersongeovane&layout=compact&theme=holi&hide_border=true&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,CSS,Dockerfile,JSON,Portugol,PHP,Shell,Objective-C,Procfile&cache_seconds=1800"/>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Language
+### 💻 Languages
 
 <p align="left">
 
@@ -38,7 +38,7 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
   src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white"
 />
 <img 
-  alt="Javscrpit"
+  alt="Javascript"
   title="Javascript"
   style="padding-right: 5px;"
   src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white"
@@ -61,18 +61,6 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
   src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white"
 />
 <img 
-  alt="GitHub"
-  title="GitHub"
-  style="padding-right: 5px;"
-  src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"
-/>
-<img 
-  alt="Vercel"
-  title="Vercel"
-  style="padding-right: 5px;"
-  src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel"
-/>
-<img 
   alt="Docker"
   title="Docker"
   style="padding-right: 5px;"
@@ -82,7 +70,13 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
   alt="PostgreSQL"
   title="PostgreSQL"
   style="padding-right: 5px;"
-  src="https://img.shields.io/badge/postgre%20sql-white?style=for-the-badge&logo=postgresql"
+  src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql"
+/>
+<img 
+  alt="Springboot"
+  title="Springboot"
+  style="padding-right: 5px;"
+  src="https://img.shields.io/badge/springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white"
 />
 <img 
   alt="Node.js"
@@ -95,6 +89,24 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
   title="React"
   style="padding-right: 5px;"
   src="https://img.shields.io/badge/react%20native-61dafb?style=for-the-badge&logo=react&logoColor=white"
+/>
+</p>
+
+### ⚙️ CI/CD 
+
+<p align="left">
+  
+  > <img 
+  alt="GitHub"
+  title="GitHub"
+  style="padding-right: 5px;"
+  src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"
+/>
+<img 
+  alt="Vercel"
+  title="Vercel"
+  style="padding-right: 5px;"
+  src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel"
 />
 </p>
 
