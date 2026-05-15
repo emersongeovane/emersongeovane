@@ -4,10 +4,6 @@
 
 ![Snake animation](https://github.com/emersongeovane/emersongeovane/blob/output/github-snake-dark.svg)
 
-<p align="center"><img 
-src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&logo=htmx&logoColor=white"
-/></p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -18,6 +14,10 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
 </p>
 
 ---
+
+<p align="center"><img 
+src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&logo=htmx&logoColor=white"
+/></p>
 
 ## 🛠️ Tech Stack
 
@@ -85,10 +85,10 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
   src="https://img.shields.io/badge/node.js-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white"
 />
 <img 
-  alt="React"
-  title="React"
+  alt="Next.js"
+  title="Next.js"
   style="padding-right: 5px;"
-  src="https://img.shields.io/badge/react%20native-61dafb?style=for-the-badge&logo=react&logoColor=white"
+  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
 />
 </p>
 
