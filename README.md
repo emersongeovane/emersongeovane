@@ -1,12 +1,15 @@
-# Welcome! 👋
+<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,20:1E3A8A,45:3B82F6,70:60A5FA,100:BFDBFE&animation=twinkling"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=holi&size=40&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Emerson+Geovane;I'm+17+years+old;I+study+Systems+Development+At+ETE;Be+Welcome!+:%29)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emersongeovane/emersongeovane/output/pacman-contribution-graph-dark.svg">
+<img alt="Pacman Animation" src="https://raw.githubusercontent.com/emersongeovane/emersongeovane/output/pacman-contribution-graph.svg">
+</picture>
 
-![Snake animation](https://github.com/emersongeovane/emersongeovane/blob/output/github-snake-dark.svg)
+![About Me](https://readme-typing-svg.herokuapp.com/?color=holi&size=45&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Emerson+Geovane;I'm+17+years+old;I+study+Systems+Development+At+ETE;Be+Welcome!+:%29)
 
 ---
 
-## 📊 GitHub Stats
+![GitHub Stats](https://i.imgur.com/6KKXpod.png)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-geovane.vercel.app/api?username=emersongeovane&show_icons=true&theme=holi&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
@@ -15,11 +18,7 @@
 
 ---
 
-<p align="center"><img 
-src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&logo=htmx&logoColor=white"
-/></p>
-
-## 🛠️ Tech Stack
+![Tech Stack](https://readme-typing-svg.herokuapp.com/?size=40&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=🛠️Tech+Stack;)
 
 ### 💻 Languages
 
@@ -29,7 +28,7 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
   alt="Java"
   title="Java"
   style="padding-right: 5px;"
-  src="https://img.shields.io/badge/java-c71d23?style=for-the-badge&logo=java"
+  src="https://img.shields.io/badge/java-c71d23?style=for-the-badge&logo=openjdk"
 />
 <img
   alt="Html5"
@@ -95,7 +94,7 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
 ### ⚙️ CI/CD 
 
 <p align="left">
-  
+
   > <img 
   alt="GitHub"
   title="GitHub"
@@ -112,9 +111,7 @@ src="https://img.shields.io/badge/backend%20developer-black?style=for-the-badge&
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats-geovane.vercel.app?user=emersongeovane&theme=algolia&hide_border=true&mode=weekly&fire=f05032">
-</p>
+<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=0:0F172A,20:1E3A8A,45:3B82F6,70:60A5FA,100:BFDBFE&animation=twinkling"/>
 
 <div align="center">
 
